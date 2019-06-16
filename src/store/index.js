@@ -1,4 +1,4 @@
-import Vue from 'vuex'
+import Vue from 'vue'
 import Vuex from 'vuex'
 import state from './state'
 import actions from './actions'
